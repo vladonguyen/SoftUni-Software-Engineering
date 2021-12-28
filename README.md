@@ -23,15 +23,11 @@
 
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3440/programming-basics-with-javascript-june-2021" > Programming Basics with JS </a>         | <a href="https://softuni.bg/certificates/details/109694/f29b0a4b"> Link</a> |
-| <a href="https://softuni.bg/trainings/3449/programming-fundamentals-with-javascript-september-2021">Programming Fundamentals with JS</a> | <a href="https://softuni.bg/certificates/details/119706/9291afcf"> Link</a> |
+| <a href="https://softuni.bg/trainings/3440/programming-basics-with-javascript-june-2021" target="_blank" > Programming Basics with JS </a>         | <a href="https://softuni.bg/certificates/details/109694/f29b0a4b" target="_blank"> Link</a> |
+| <a href="https://softuni.bg/trainings/3449/programming-fundamentals-with-javascript-september-2021" target="_blank">Programming Fundamentals with JS</a> | <a href="https://softuni.bg/certificates/details/119706/9291afcf" target="_blank"> Link</a> |
 
 </td>
 
 </tr>
 
 </table>
-
-
-
-
